@@ -1,0 +1,9 @@
+Exercício 1. Você consegue ler o código deste programa e adivinhar qual é a saída (sem executá-lo no Kotlin Playground)?
+
+fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+
+Resposta: Sim, a saída seria os números 1 2 e 3, empilhados e em sequência.
